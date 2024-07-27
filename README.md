@@ -1,6 +1,4 @@
-Certainly! Based on the code snippets you provided, here's a suggested README for your project:
 
-```markdown
 # Online Quiz Service
 
 ## Description
